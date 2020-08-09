@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Aug 2020 13:49:41 +0530</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Sun, 09 Aug 2020 13:49:41 +0530</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>The title here could be a bit of a misnomer due to the inherent ambiguity of language and inherent vagueness of human thought, so let’s first clear out what do I mean with it.
+Quantum, I use here to denote the smallest independent unit of a substance/construct which is further indivisible into functional units. So what I will be talking about is what is the smallest unit inside of us or even external to us that can be considered the basic unit of self.</description>
+    </item>
+    
+  </channel>
+</rss>
